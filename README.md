@@ -1,4 +1,4 @@
-# 📐 Math for ML
+# 📐 Fundamentals of ML AND DL
 
 <div align="center" style="width: 80%; max-width: 700px; margin: 10px auto;">
   <svg width="100%" height="6" viewBox="0 0 100 6" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
